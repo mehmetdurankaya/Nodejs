@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "// 1. Prints the function that calculates the area of the circle on the console![Alt text](circlearea/dairenin-alani.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "koa": "^2.14.2",
+    "koa-router": "^12.0.1"
+  }
+}

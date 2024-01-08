@@ -1,0 +1,4 @@
+node_modules/       # Node.js paketleri
+build/              # Derleme çıktıları
+*.log               # Tüm log dosyaları
+config.js           # Özel konfigürasyon dosyası
